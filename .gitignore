@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# Build
+build/
+out/
+target/
+
+# Logs
+*.log
+
+# Env
+.env
+
+# Node
+node_modules/
+
+# Gradle
+.gradle/
