@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip list:*)",
+      "Bash(source '/Users/chiwon/Library/Mobile Documents/com~apple~CloudDocs/it-project/fintech-mydata-recommendation/chi_venv/bin/activate')",
+      "Bash(python3 -c \"import pykrx; print\\(''pykrx available''\\)\")",
+      "Bash(python3 -c \"import langgraph; print\\(''langgraph available''\\)\")",
+      "Bash(python3 -m pip install pykrx langgraph langgraph-checkpoint langchain langchain-openai langchain-community pandas numpy matplotlib mplfinance ta)",
+      "Bash(python3:*)",
+      "Bash(pip install:*)"
+    ]
+  }
+}
