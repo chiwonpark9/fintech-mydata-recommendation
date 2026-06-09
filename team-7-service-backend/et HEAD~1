@@ -1,0 +1,61 @@
+[33mcommit fc35ff2add53130bf00f36b142352dc5d36ada2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmainFrame[m[33m, [m[1;31mservice_backend/mainFrame[m[33m)[m
+Author: JohnDohnut <lgj1089@gmail.com>
+Date:   Thu Apr 4 15:04:55 2024 +0900
+
+    deleted:    src/main/java/com/team7/repository/card/MbtiRepository.java
+    
+    modified:   src/main/java/com/team7/service/CardService.java
+
+[33mcommit f22c74e11bc76a2b272512f1c54cb3085e024890[m
+Author: JohnDohnut <lgj1089@gmail.com>
+Date:   Thu Apr 4 14:58:57 2024 +0900
+
+    before merge with other branches
+
+[33mcommit efb78546bea499734b877f442ceb3551737ceee1[m
+Author: JohnDohnut <lgj1089@gmail.com>
+Date:   Thu Apr 4 10:27:03 2024 +0900
+
+    mainFrame prototype
+
+[33mcommit 36267090758200f6b38d856254a1e03e041d998f[m
+Author: JohnDohnut <lgj1089@gmail.com>
+Date:   Thu Apr 4 09:09:03 2024 +0900
+
+    mainFrame prototype
+
+[33mcommit 3ecb2c7c713b3b849106475c3fd064b71d6f71eb[m[33m ([m[1;31mservice_backend/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: JohnDohnut <lgj1089@gmail.com>
+Date:   Wed Apr 3 15:41:25 2024 +0900
+
+    Lombok applied on Data Entities
+
+[33mcommit 23c17baa9e267051ea091078a8823c308087883d[m
+Author: JohnDohnut <lgj1089@gmail.com>
+Date:   Wed Apr 3 11:51:43 2024 +0900
+
+    Lombok applied on Data Entities
+
+[33mcommit 0194642c82c2dd1f0338ea8a48c1b2732756c644[m
+Author: JohnDohnut <lgj1089@gmail.com>
+Date:   Wed Apr 3 11:11:58 2024 +0900
+
+    Lombok applied on Data Entities
+
+[33mcommit 6d17ee7f7798e3dc7d8e8f9cf8d10d468940aec9[m
+Author: JohnDohnut <lgj1089@gmail.com>
+Date:   Wed Apr 3 11:02:09 2024 +0900
+
+    Lombok applied on Data Entities
+
+[33mcommit 92942a5930043af9c56befb2494c2686ce612fe3[m
+Author: JohnDohnut <lgj1089@gmail.com>
+Date:   Wed Apr 3 10:59:22 2024 +0900
+
+    Prototype Data Model Implemented
+
+[33mcommit cc20248dfd336cff05337f73e1acd51f940316b3[m
+Author: JohnDohnut <lgj1089@gmail.com>
+Date:   Tue Apr 2 11:26:04 2024 +0900
+
+    Initial with integration
